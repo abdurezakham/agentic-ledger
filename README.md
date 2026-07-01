@@ -1,6 +1,6 @@
-## TRP1 Week 5 — Final Submission Scaffold
 
-This repository now includes a full Week 5 implementation scaffold for:
+
+This repository now includes:
 - Phase 1: event store core + optimistic concurrency + outbox
 - Phase 2: aggregates and command handlers
 - Phase 3: projections + async daemon
